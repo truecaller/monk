@@ -1,0 +1,7 @@
+.idea/*
+target/*
+src/test/out/*
+target/*
+.DS_Store
+out/*
+*.iml

@@ -1,0 +1,11 @@
+{
+  "balance": "balance",
+  "debit":  "debit|withdrawal",
+  "credit": "credit|deposit",
+  "date": "date|txn date|post",
+  "description": "remarks|description|particulars|narration|details",
+  "type": "type|mode",
+  "cheque number": "cheque",
+  "misc": "value|no.",
+  "loan": "loan"
+}

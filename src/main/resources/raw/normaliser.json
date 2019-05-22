@@ -1,0 +1,5 @@
+{
+  "balance": "balance",
+  "debit":  "debit|withdrawal",
+  "credit": "credit|deposit"
+}
